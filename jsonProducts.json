@@ -1,0 +1,148 @@
+[
+    {
+      "name": "Aspirin",
+      "price": 5.99,
+      "description": "Aspirin is commonly used to relieve minor aches and pains."
+    },
+    {
+      "name": "Acetaminophen",
+      "price": 6.49,
+      "description": "Acetaminophen is used to treat mild to moderate pain and reduce fever."
+    },
+    {
+      "name": "Ibuprofen",
+      "price": 7.99,
+      "description": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain, reduce inflammation, and lower fever."
+    },
+    {
+      "name": "Antihistamine",
+      "price": 8.99,
+      "description": "Antihistamines are medications that treat allergy symptoms."
+    },
+    {
+      "name": "Cough Syrup",
+      "price": 9.49,
+      "description": "Cough syrup is a medication used to treat coughing and related conditions."
+    },
+    {
+      "name": "Decongestant",
+      "price": 7.99,
+      "description": "Decongestants are medications that relieve nasal congestion."
+    },
+    {
+      "name": "Antacid",
+      "price": 6.99,
+      "description": "Antacids are medications that neutralize stomach acid to relieve heartburn, indigestion, and upset stomach."
+    },
+    {
+      "name": "Antibiotic Ointment",
+      "price": 8.49,
+      "description": "Antibiotic ointments are used to prevent or treat infections."
+    },
+    {
+      "name": "Eye Drops",
+      "price": 7.99,
+      "description": "Eye drops are used to treat a variety of eye conditions, including dry eyes and allergies."
+    },
+    {
+      "name": "Antifungal Cream",
+      "price": 10.99,
+      "description": "Antifungal creams are used to treat fungal infections of the skin, such as athlete's foot and ringworm."
+    },
+    {
+      "name": "Laxative",
+      "price": 8.49,
+      "description": "Laxatives are medications used to relieve constipation."
+    },
+    {
+      "name": "Multivitamin",
+      "price": 12.99,
+      "description": "Multivitamins are dietary supplements containing a combination of vitamins and minerals."
+    },
+    {
+      "name": "Sunscreen",
+      "price": 9.99,
+      "description": "Sunscreen is a lotion, spray, gel, or other topical product that absorbs or reflects some of the sun's ultraviolet (UV) radiation and thus helps protect skin from sunburn."
+    },
+    {
+      "name": "Band-Aids",
+      "price": 4.99,
+      "description": "Band-Aids are adhesive bandages used to cover small cuts and wounds."
+    },
+    {
+      "name": "Hydrocortisone Cream",
+      "price": 7.49,
+      "description": "Hydrocortisone cream is a topical corticosteroid used to reduce itching, redness, and swelling associated with many skin conditions."
+    },
+    {
+      "name": "Thermometer",
+      "price": 12.99,
+      "description": "A thermometer is a device used to measure body temperature."
+    },
+    {
+      "name": "Nasal Spray",
+      "price": 8.99,
+      "description": "Nasal sprays are medications delivered through the nostrils to treat nasal congestion and other nasal symptoms."
+    },
+    {
+      "name": "Hand Sanitizer",
+      "price": 6.99,
+      "description": "Hand sanitizer is a liquid, gel, or foam generally used to decrease infectious agents on the hands."
+    },
+    {
+      "name": "Dental Floss",
+      "price": 3.99,
+      "description": "Dental floss is a cord of thin filaments used to remove food and dental plaque from between teeth."
+    },
+    {
+      "name": "Allergy Medicine",
+      "price": 9.99,
+      "description": "Allergy medicine is used to relieve allergy symptoms such as sneezing, runny nose, itching, and watery eyes."
+    },
+    {
+      "name": "Antiseptic Wipes",
+      "price": 5.49,
+      "description": "Antiseptic wipes are used to clean wounds and prevent infection."
+    },
+    {
+      "name": "Pain Relief Patch",
+      "price": 7.99,
+      "description": "Pain relief patches are medicated patches used to relieve pain, such as muscle pain or joint pain."
+    },
+    {
+      "name": "Digestive Enzyme Supplement",
+      "price": 10.49,
+      "description": "Digestive enzyme supplements are used to aid digestion by breaking down food into smaller molecules that are more easily absorbed by the body."
+    },
+    {
+      "name": "Motion Sickness Medicine",
+      "price": 8.99,
+      "description": "Motion sickness medicine is used to prevent or treat symptoms of motion sickness, such as nausea and vomiting."
+    },
+    {
+      "name": "Sleep Aid",
+      "price": 9.99,
+      "description": "Sleep aids are medications or supplements used to help people fall asleep or stay asleep."
+    },
+    {
+      "name": "Anti-Diarrheal",
+      "price": 7.49,
+      "description": "Anti-diarrheals are medications used to treat diarrhea."
+    },
+    {
+      "name": "Anti-Itch Cream",
+      "price": 6.99,
+      "description": "Anti-itch creams are used to relieve itching caused by insect bites, poison ivy, and other skin conditions."
+    },
+    {
+      "name": "Ear Drops",
+      "price": 8.49,
+      "description": "Ear drops are medications used to treat ear pain, ear infections, and earwax buildup."
+    },
+    {
+      "name": "Vitamin D Supplement",
+      "price": 11.49,
+      "description": "Vitamin D supplements are used to prevent or treat vitamin D deficiency."
+    }
+  ]
+  

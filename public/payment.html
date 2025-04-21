@@ -1,0 +1,54 @@
+<head>
+  <title>Payment</title>
+  <link rel="stylesheet" href="./styles/payment.css">
+  <link rel="icon" href="./uploads/Logo.png" type="image/x-icon">
+</head>
+<div class='container'>
+    <div class='window'>
+      <div class='order-info'>
+        <div class='order-info-content'>
+          <h2>Order Summary</h2>
+            <div class='line'></div>
+            <div id="order-summary">
+              <!-- Order tables will be dynamically inserted here -->
+
+            </div>         
+          <div class='total'>
+          </div>
+  </div>
+  </div>
+          <div class='credit-info'>
+            <div class='credit-info-content'>
+              <table class='half-input-table'>
+                <tr><td>Please select your card: </td><td><div class='dropdown' id='card-dropdown'><div class='dropdown-btn' id='current-card'>Visa</div>
+                  <div class='dropdown-select'>
+                  <ul>
+                    <li>Master Card</li>
+                    <li>PayPal</li>
+                    </ul></div>
+                  </div>
+                </td></tr>
+              </table>
+              <img src='https://dl.dropboxusercontent.com/s/ubamyu6mzov5c80/visa_logo%20%281%29.png' height='80' class='credit-card-image' id='credit-card-image'></img>
+              Card Number
+              <input class='input-field card-number'></input>
+              Card Holder
+              <input class='input-field card-holder'></input>
+              <table class='half-input-table'>
+                <tr>
+                  <td> Expires
+                    <input class='input-field expires'></input>
+                  </td>
+                  <td>CVC
+                    <input class='input-field cvc'></input>
+                  </td>
+                </tr>
+              </table>
+              <button class='pay-btn'>Checkout</button>
+  
+            </div>
+  
+          </div>
+        </div>
+</div>
+<script type="module" src="./js/payment.js"></script>

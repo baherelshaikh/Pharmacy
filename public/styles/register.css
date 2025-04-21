@@ -1,0 +1,20 @@
+.reg-content {
+      background-color: white; 
+      padding: 20px; 
+      border-radius: 10px; 
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); 
+      transition: all 0.3s ease-in-out; 
+      width: 80%; 
+      max-width: 800px; 
+      margin: 20px auto; 
+      margin: 16% auto;
+  }
+  .reg-content h2 {
+    margin-bottom: 15px;
+  }
+  .container {
+      min-height: 95%;
+  }
+  .login {
+      display: none;
+  }
