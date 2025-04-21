@@ -50,7 +50,7 @@
                     <span id= "icon"class="close-modal close bClose close-login">&times;</span> <!--Close button -->
                     <h4 class="login-message" id="lModal-name"></h4>
         
-                    <button class="confirm-add-to-cart login confirmOrLogin">Login</button>
+                    <button class="confirm-add-to-cart login loginB confirmOrLogin">Login</button>
                 </div>
             </div>
 
@@ -92,6 +92,7 @@ const authToken = localStorage.getItem('Token');
                     const modalOverlay = document.getElementById("modal-overlay");
                     const closeModalButton = document.querySelector(".close-modal");
                     const modalName = document.getElementById("lModal-name");
+                    const loginButton = document.querySelector(".loginB");
 
                     modalName.textContent = "Please, login first!";
                     function openModal(product) {
@@ -115,8 +116,12 @@ const authToken = localStorage.getItem('Token');
                     closeModalButton.addEventListener("click", () => {
                         closeModal(); // Call the function to close the modal
                     });
+
+                    loginButton.addEventListener("click", () => {
+                        window.location.href = `login.html`; // go to login page
+                    });
         }
-         async function addToCart(productId) {
+        async function addToCart(productId) {
             let Product;
             if(!authToken){
                 const addToCartButtons = document.querySelector(".productButton");
